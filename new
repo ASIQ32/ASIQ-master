@@ -1,0 +1,2 @@
+ asiq% cd src/
+ asiq/src% make -f makefile.bat USE_UPNP=-
